@@ -1,14 +1,13 @@
 																																			Colorado Election Analysis
  
+Overview of Election Audit: 
 
-	Overview of Election Audit: 
-
-		The purpose of this election audit analysis was to complete (Aims 1 – 5): 1) Deliver the total number of votes cast, 2) a complete list of candidates who received votes, and 3) the total number of votes each candidate received, 4) the percentage of votes each candidate won, 5) verify the winner of the election based on the popular vote.  Aims 1- 5 were accomplished using the programming language Python to write algorithms that will assist the confirmation and analysis of election results.  
+	The purpose of this election audit analysis was to complete (Aims 1 – 5): 1) Deliver the total number of votes cast, 2) a complete list of candidates who received votes, and 3) the total number of votes each candidate received, 4) the percentage of votes each candidate won, 5) verify the winner of the election based on the popular vote.  Aims 1- 5 were accomplished using the programming language Python to write algorithms that will assist the confirmation and analysis of election results.  
 	
-	Election-Audit Results:
+Election-Audit Results:
 
-				1.	There was a total of 369,711 votes cast in this congressional election.
-								a.	The county of Jefferson had 10.5% of votes, with a total of 38,855 votes.
+***1.	There was a total of 369,711 votes cast in this congressional election.
+******a.	The county of Jefferson had 10.5% of votes, with a total of 38,855 votes.
 								b.	The county of Denver had 82.8% of votes, with a total of 306,055 votes.
 								c.	The county of Arapahoe had 6.7% of votes, with a total of 24,801 votes. 
 				2.	Denver county candidates received the largest number of votes with 306,055.
